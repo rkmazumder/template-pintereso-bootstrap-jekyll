@@ -1,12 +1,12 @@
 # Site
-name: 'Pintereso'
-description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
+name: 'Sikkha'
+description: 'Educational and Learning Blog'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/template-pintereso-bootstrap-jekyll'
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'rkmazumder@gmail.com'
 
 include: ["_pages"]
 permalink: /:title/
